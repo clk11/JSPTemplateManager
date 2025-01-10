@@ -10,4 +10,4 @@ A Java web application using JSP templates with preludes and codas for structure
 
 ---
 
-Created by **Trasca Robert-Valentin** **GR.212**
+Created by **Trasca Robert-Valentin** **GR:212**
